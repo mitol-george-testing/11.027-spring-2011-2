@@ -1,0 +1,69 @@
+leftnav:
+- identifier: 272e4965-1a12-a2a2-75c8-28826a0a35a4
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: df24edda-573c-77ee-77a6-be0850a6e691
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 5e7dafe4-8f73-8fc4-0cba-aac1b7f74596
+  name: Readings
+  url: /pages/readings
+  weight: 30
+- identifier: 08b4fc6c-d34c-a81d-e0fb-036b5ed8be07
+  name: Assignments
+  url: /pages/assignments/
+  weight: 40
+- identifier: 191d71e8-6fec-22c9-e577-101115af38c9
+  name: Weekly Journal Entries
+  parent: 08b4fc6c-d34c-a81d-e0fb-036b5ed8be07
+  url: /pages/assignments/weekly-journal-entries
+  weight: 50
+- identifier: 06244214-e577-8675-3ce2-a779116b0425
+  name: Corners and Squares
+  parent: 08b4fc6c-d34c-a81d-e0fb-036b5ed8be07
+  url: /pages/assignments/corners-and-squares
+  weight: 60
+- identifier: f63923fe-a36a-1a4f-4105-23263158e3a0
+  name: Baseline Analysis
+  parent: 08b4fc6c-d34c-a81d-e0fb-036b5ed8be07
+  url: /pages/assignments/baseline-analysis
+  weight: 70
+- identifier: bcf2edca-4f68-b56a-da38-7cb4bf6e0855
+  name: Detailed Research, Analysis, and Planning
+  parent: 08b4fc6c-d34c-a81d-e0fb-036b5ed8be07
+  url: /pages/assignments/detailed-research-analysis-and-planning
+  weight: 80
+- identifier: 008000ef-d22e-9023-f883-ce3b685ed5f9
+  name: Formulation of Final Plan
+  parent: 08b4fc6c-d34c-a81d-e0fb-036b5ed8be07
+  url: /pages/assignments/formulation-of-final-plan
+  weight: 90
+- identifier: 5d5da985-2339-b23f-c05d-5737c0f5ffc2
+  name: Oral Presentation
+  parent: 08b4fc6c-d34c-a81d-e0fb-036b5ed8be07
+  url: /pages/assignments/oral-presentation
+  weight: 100
+- identifier: ba12b00d-4ea1-ecf4-6735-adff62b7361d
+  name: Poster
+  parent: 08b4fc6c-d34c-a81d-e0fb-036b5ed8be07
+  url: /pages/assignments/poster
+  weight: 110
+- identifier: e15a85c0-f4b0-afcb-1495-badeadca5de0
+  name: Final Report
+  parent: 08b4fc6c-d34c-a81d-e0fb-036b5ed8be07
+  url: /pages/assignments/final-report
+  weight: 120
+- identifier: 6e80a167-da1f-4d16-1477-3d8781591d44
+  name: Projects
+  url: /pages/projects
+  weight: 130
+- identifier: e4257a67-77b4-216f-41b2-deab0b53a919
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 140
+- identifier: afdcc7a4-75bc-c296-b94a-c28d54efed82
+  name: Image Gallery
+  url: /pages/image-gallery
+  weight: 150
